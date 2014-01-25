@@ -1,0 +1,31 @@
+{
+  "name": "hilo",
+  "version": "0.0.0",
+  "description": "Utilities for faster development with JavaScript",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-jasmine": "~0.4.2",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hilojs/hilo.git"
+  },
+  "keywords": [
+    "hilo",
+    "library"
+  ],
+  "author": "erikroyall",
+  "license": "GPL and MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "4c1f951108b36fdbdf9e1c5e95f31287785bf5d2",
+  "bugs": {
+    "url": "https://github.com/hilojs/hilo/issues"
+  }
+}
