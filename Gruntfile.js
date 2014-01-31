@@ -3,6 +3,7 @@ module.exports = function(grunt) {
 
   // Project configuration.
   grunt.initConfig({
+    
     // Metadata.
     pkg: grunt.file.readJSON("package.json"),
     banner: "// ========================= \n" +
@@ -12,6 +13,7 @@ module.exports = function(grunt) {
       "// http://erikroyall.github.com/<%= pkg.name %>/\n" +
       "// Copyright (c) 2013 Erik Royall\n" +
       "// Licensed under <%= pkg.license %> (see LICENSE) \n\n",
+
     // Task configuration.
     concat: {
       options: {
