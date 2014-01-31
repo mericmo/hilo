@@ -1,5 +1,5 @@
 {
-    "name": "Hilo",
+    "name": "hilo",
     "version": "0.0.1",
     "description": "Utilities for faster development with JavaScript",
     "main": "Gruntfile.js",
